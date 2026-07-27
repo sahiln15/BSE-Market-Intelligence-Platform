@@ -9,7 +9,10 @@
 
 Investors and market analysts tracking Indian equity markets need a fast, visual way to compare index performance, assess risk-adjusted returns, and identify which BSE indices have delivered the most consistent growth relative to their volatility. This project builds a 3-dashboard Tableau analytics platform on BSE Daily Historical Index Data — covering price performance, drawdown risk, volatility, and cross-index comparison.
 
-**Live Dashboard (Tableau Public):** [https://public.tableau.com/views/BSEAnalysis_17850002261240/SectorComparison?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)]
+## 🌐 Live Dashboard
+
+**Tableau Public:**  
+https://public.tableau.com/views/BSEAnalysis_17850002261240/SectorComparison?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -32,7 +35,7 @@ Investors and market analysts tracking Indian equity markets need a fast, visual
 
 ### Dashboard 1 — Executive Overview
 
-executive_overview.png
+![Executive Overview](assets/executive_overview.png)
 
 **Purpose**: Single-screen command center for monitoring current index health across 4 critical dimensions.
 
@@ -50,7 +53,7 @@ executive_overview.png
 
 ### Dashboard 2 — Risk-Return Matrix
 
-risk_return_matrix.png
+![Risk Return Matrix](assets/risk_return_matrix.png)
 
 **Purpose**: Scatter plot positioning each BSE index on a risk (volatility) vs. return (annualized gain) quadrant — the standard framework for investment decision-making.
 
@@ -74,7 +77,7 @@ Scatter Volatility =
 
 ### Dashboard 3 — Sector Comparison (Normalized Returns Base 100)
 
-sector_comparison.png
+![Sector Comparison](assets/sector_comparison.png)
 
 **Purpose**: Apples-to-apples comparison of indices that started at different price levels, by rebasing all to 100 at the start date.
 
@@ -171,7 +174,8 @@ Financial Year =
 
 ```
 BSE-Market-Intelligence-Platform/
-├── BSE_Analysis.twbx           # Tableau packaged workbook (full project)
+├── src/
+    └── BSE_Analysis.twbx           # Tableau packaged workbook (full project)
 ├── data/
 │   └── BSEIndicesDailyHistoricalData.xlsx  # Source dataset
 ├── assets/
