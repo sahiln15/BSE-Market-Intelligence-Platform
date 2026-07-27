@@ -196,5 +196,5 @@ BSE-Market-Intelligence-Platform/
 ## 🔗 Links
 
 - **Tableau Public**: [(https://public.tableau.com/views/BSEAnalysis_17850002261240/SectorComparison?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
-- **Portfolio**: [github.com/sahiln15]
-- **LinkedIn**: [linkedin.com/in/sahilnavale]
+- **Portfolio**: [https://github.com/sahiln15]
+- **LinkedIn**: [https://www.linkedin.com/in/sahilnavale]
