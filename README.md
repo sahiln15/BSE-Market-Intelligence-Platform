@@ -186,6 +186,6 @@ bse-tableau-dashboard/
 
 ## 🔗 Links
 
-- **Tableau Public**: [Add link after publishing]
+- **Tableau Public**: [(https://public.tableau.com/views/BSEAnalysis_17850002261240/SectorComparison?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 - **Portfolio**: [github.com/sahiln15]
 - **LinkedIn**: [linkedin.com/in/sahilnavale]
