@@ -174,7 +174,7 @@ BSE-Market-Intelligence-Platform/
 ├── BSE_Analysis.twbx           # Tableau packaged workbook (full project)
 ├── data/
 │   └── BSEIndicesDailyHistoricalData.xlsx  # Source dataset
-├── screenshots/
+├── assets/
 │   ├── executive_overview.png
 │   ├── risk_return_matrix.png
 │   └── sector_comparison.png
