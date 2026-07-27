@@ -12,7 +12,7 @@ Investors and market analysts tracking Indian equity markets need a fast, visual
 ## 🌐 Live Dashboard
 
 **Tableau Public:**  
-https://public.tableau.com/views/BSEAnalysis_17850002261240/SectorComparison?:language=en-US&:display_count=n&:origin=viz_share_link
+(https://public.tableau.com/views/BSE-Market-Intelligence-Platform/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -195,6 +195,6 @@ BSE-Market-Intelligence-Platform/
 
 ## 🔗 Links
 
-- **Tableau Public**: [(https://public.tableau.com/views/BSEAnalysis_17850002261240/SectorComparison?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+- **Tableau Public**: [https://public.tableau.com/views/BSE-Market-Intelligence-Platform/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 - **Portfolio**: [https://github.com/sahiln15]
 - **LinkedIn**: [https://www.linkedin.com/in/sahilnavale]
